@@ -1,0 +1,11 @@
+M2Z08
+M2Z11
+Reservation Room: M2Z09 Day: Monday Start: 9 End: 12
+Reservation Room: M2Z09 Day: Monday Start: 12 End: 13
+Reservation Room: M2Z09 Day: Monday Start: 13 End: 14
+Reservation Room: M2Z08 Day: Friday Start: 16 End: 17
+Reservation Room: M2Z08 Day: Monday Start: 9 End: 12
+Reservation Room: M2Z11 Day: Monday Start: 9 End: 12
+M2Z22
+M2Z103
+Reservation Room: M2Z103 Day: Wednesday Start: 14 End: 16
